@@ -1,0 +1,12 @@
+{
+  "toDo": {
+    "name": "Name",
+    "description": "Description",
+    "dueAt": "Due At",
+    "status": "Status",
+    "edit": "Edit To Do",
+    "cancelEdit": "Cancel",
+    "updateToDo": "Update",
+    "add": "Add"
+  }
+}
